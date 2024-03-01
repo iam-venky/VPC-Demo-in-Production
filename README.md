@@ -40,4 +40,4 @@ Created an Application Load Balancer (ALB) in over two public subnets.
 Created a target group including two instances. 
 Configure the ALB to distribute traffic to the instances in the private subnets.
 
-
+By following these steps, you should be able to set up the VPC in AWS with public and private subnets, NAT gateways, load balancers, and auto-scaling groups as per the specified configuration.
