@@ -22,3 +22,5 @@ Created a bastion host to connect to an EC2 instance hosted in a private subnet.
 Launch a new EC2 instance to act as the bastion host in a public subnet.
 SSH into the bastion host using the public IP or EIP assigned to it. From the bastion host, SSH into the private EC2 instance using its private IP address.
 
+scp -i /Users/venkatesh.dhonakanti.CORP/Downloads/vpckeypair.pem /Users/venkatesh.dhonakanti.CORP/Downloads/vpckeypair.pem ubuntu@3.237.93.68:/home/ubuntu
+
