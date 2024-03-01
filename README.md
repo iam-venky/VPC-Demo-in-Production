@@ -1,6 +1,6 @@
-                                              # VPC-Demo-in-Production
+  # VPC-Demo-in-Production
 
-            ![alt text](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png)
+  ![alt text](https://docs.aws.amazon.com/images/vpc/latest/userguide/images/vpc-example-private-subnets.png)
 
 
 - The steps to create a VPC with 2 public and 2 private subnets, 2 NAT gateways across two availability zones, an Application Load Balancer, and an Auto Scaling Group.
